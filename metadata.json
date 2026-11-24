@@ -1,0 +1,6 @@
+{
+  "name": "Account Recovery",
+  "description": "Clean interactive account recovery webpage demo with form validation and companion login and sign-up flows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

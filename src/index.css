@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    font-family: "Plus Jakarta Sans", Arial, Helvetica, sans-serif;
+    background-color: #fafafa;
+    color: #262626;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  @media (max-width: 450px) {
+    body {
+      background-color: #ffffff;
+    }
+  }
+}
